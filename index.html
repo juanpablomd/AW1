@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store VF</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+    
+    <div class="logo">
+        
+        <img src="imagenes/logovf.png" alt="Logo de la marca">
+    
+    </div>
+
+    <nav>
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li>
+                <a href="#">Products</a>
+                <ul class="menu-vertical">
+                    <li><a href="monitor.html">Monitor</a></li>
+                    <li><a href="television.html">Television</a></li>
+                    <li><a href="phone.html">Phone</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <button id="exit">Logout</button>
+</header>
+
+<div class="conteiner">
+    <form name="formlogin" action= ”mailto: juanpablomedina020.193@gmail.com”  method="post" class="form-login">
+        <h2>Log in</h2>
+        <br>
+        <p>If you don't have an account, <a href="#">Click here</a> <p>
+            <br>
+        <label for="email">Email:</label>
+        <input type="email" name="txtemail" value=""  maxlength="50" required>
+            <br>
+            <br>
+        <label for="password">Password:</label>
+        <input type="password" name="txtpass" value="" maxlength="30" required>
+            <br>
+            <br>
+
+        <input type="submit" value="Enter" class="btn">
+
+    </form>
+</div>
+</body>
+</html>

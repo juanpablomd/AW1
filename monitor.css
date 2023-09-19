@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+    
+}
+
+body{
+    background-image: url(imagenes/samsung-galaxy-s23-gray-black-theme-wallpaper-2560x1920_27.jpg);
+    background-size:  cover;
+}
+
+header{
+    background-color: #262626;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+    padding: 5px;
+}
+
+nav{
+    max-width: 400px;
+    margin: auto;
+    background-color: #333;
+    font-size: 20px;
+    width: 900px;
+    border-radius: 5px;
+}
+
+.header .logo img{
+    width: 80px;
+    height: 70px;
+    margin-left: 40px;
+    cursor: pointer;
+    transition: all 0.3s;
+} 
+
+.header .logo img:hover{
+transform: scale(1.1);
+   
+} 
+
+.header .menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header .menu > li > a{
+    display: block;
+    padding: 15px 50px;
+    color: white;
+}
+
+.header .menu a{
+    font-size: 17px;
+    color: rgba(229, 229, 238, 0.938);
+    text-decoration: none;
+}
+
+
+.header .menu li a:hover{
+    background-color:rgb(0, 0, 0);
+}
+
+
+.header button{
+    background-color: rgba(218, 15, 15, 0.644);
+    color: white;
+    height: 50px;
+    font-size: 15px;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+
+}
+
+
+.menu-vertical{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 165px;
+    background-color: #262626;
+    
+
+}
+
+.menu li:hover .menu-vertical{
+    display: block;
+    color: #262626;
+}
+
+.menu-vertical li:hover{
+    background-color: #262626;
+    
+}
+
+.menu-vertical li a{
+    display: block;
+    color: white;
+    
+}
+
+.btn-exit:hover{
+    background-color: red;
+}
+
+/* ARRIBA ESTÁ EL CÓDIGO DEL NAVBAR */
+
+.title-monitor h1{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
