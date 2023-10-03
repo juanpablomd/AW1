@@ -1,0 +1,29 @@
+
+@mixin customButton($width, $height, $borderRadius, $bg){
+    width: $width;
+    height: $height;
+    border-radius: $borderRadius;
+    border: 0px;
+    cursor: pointer;
+    background-color: $bg;
+    color: $color-w;
+}
+
+.btn-add{
+
+    @include customButton(30px, 30px, 100%, $color-g);
+}
+
+.btn-quit {
+
+    @include customButton(30px, 30px, 100%, $color-r);
+}
+
+
+.btn-quit:hover{
+    background-color: $color-rs;
+}
+
+.btn-add:hover{
+    background-color: $color-gs;
+}
