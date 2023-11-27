@@ -1,6 +1,6 @@
 
-import { setData } from "../components/sessionStorage.js";
-import { getData } from "../components/sessionStorage.js";
+import { setData } from "../data/sessionStorage.js";
+import { getData } from "../data/sessionStorage.js";
 
 
 // Evento de clic en el botón de login

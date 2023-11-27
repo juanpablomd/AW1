@@ -1,4 +1,5 @@
 @import 'colors';
+@import "~bootstrap/scss/bootstrap";
 
 @mixin titulos(){
     color: $color-b;
@@ -125,21 +126,42 @@ header{
 }
 
 
+// Estilos para el control numérico
+
+
+.numericUpDown {
+    width: 100px; // Ajusta el ancho según sea necesario
+  }
+  
+  .btn-add-to-cart {
+    background-color: #28a745; // Color de éxito de Bootstrap
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: #218838; // Color más oscuro al pasar el ratón
+    }
+  }
+
+
+
+
 //Titulo categoria
 
 .title-category{
     @include titulos()
 }
-
-.title-monitor{
+#Monitors{
     @include titulos()
 }
 
-.title-phone{
+#Phones{
     @include titulos()
 }
-
-.title-television{
+#Televisions{
     @include titulos()
 }
 

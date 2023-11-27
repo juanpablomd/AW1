@@ -1,5 +1,13 @@
 @import 'colors';
 
+@mixin titulos(){
+    color: $color-b;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -117,10 +125,11 @@ header{
 }
 
 
-//Titulo categoria
 
-.title-category{
-    @include titulos;
-}
 
+
+//Categories
+@import '/page/styles_categories/card';
+@import '/page/styles_categories/layout';
+@import '/page/styles_categories/button';
 

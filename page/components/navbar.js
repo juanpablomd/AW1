@@ -1,7 +1,8 @@
 const navElements = [
     {title:'Monitor', link: '/page/html_categories/monitor.html'},
     {title:'Television', link: '/page/html_categories/television.html'},
-    {title:'Phone', link: '/page/html_categories/phone.html'}
+    {title:'Phone', link: '/page/html_categories/phone.html'},
+    {title:'Carrito', link: '/page/html_categories/carrocompas.html'}
 ]
 
 

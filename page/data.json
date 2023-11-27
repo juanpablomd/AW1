@@ -1,0 +1,196 @@
+[
+
+    {
+        "imagen": "https://noblex.com.ar/media/wysiwyg/MK24X7100_IAIBSO0001.jpg",
+        "titulo": "Monitor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Monitors",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/monitor.html",
+        "id": "1"
+    },
+    {
+        "imagen": "https://noblex.com.ar/media/wysiwyg/MK24X7100_IAIBSO0001.jpg",
+        "titulo": "Monitor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Monitors",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/monitor.html",
+        "id": "2"
+    },
+    {
+        "imagen": "https://noblex.com.ar/media/wysiwyg/MK24X7100_IAIBSO0001.jpg",
+        "titulo": "Monitor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Monitors",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/monitor.html",
+        "id": "3"
+    },
+    {
+        "imagen": "https://images.fravega.com/f1000/ef2bf5ced35e6d3a857c02b35f07bb16.jpg",
+        "titulo": "Phone",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Phones",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/phone.html",
+        "id": "4"
+    },
+    {
+        "imagen": "https://images.fravega.com/f1000/ef2bf5ced35e6d3a857c02b35f07bb16.jpg",
+        "titulo": "Phone",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Phones",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/phone.html",
+        "id": "5"
+    },
+    {
+        "imagen": "https://images.fravega.com/f1000/ef2bf5ced35e6d3a857c02b35f07bb16.jpg",
+        "titulo": "Phone",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Phones",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/phone.html",
+        "id": "6"
+    },
+    {
+        "imagen": "https://images.start.com.ar/QN75QN85BAGCZB-2.jpg",
+        "titulo": "Television",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Televisions",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/television.html",
+        "id": "7"
+    },
+    {
+        "imagen": "https://images.start.com.ar/QN75QN85BAGCZB-2.jpg",
+        "titulo": "Television",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Televisions",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/television.html",
+        "id": "8"
+    },
+    {
+        "imagen": "https://images.start.com.ar/QN75QN85BAGCZB-2.jpg",
+        "titulo": "Television",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Televisions",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/television.html",
+        "id": "9"
+    },
+
+    
+
+    
+
+
+
+
+
+    {
+        "imagen": "https://noblex.com.ar/media/wysiwyg/MK24X7100_IAIBSO0001.jpg",
+        "titulo": "Monitor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Monitors",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/monitor.html",
+        "id": "10"
+    },
+    {
+        "imagen": "https://noblex.com.ar/media/wysiwyg/MK24X7100_IAIBSO0001.jpg",
+        "titulo": "Monitor",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Monitors",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/monitor.html",
+        "id": "11"
+    },
+
+
+
+    {
+        "imagen": "https://images.start.com.ar/QN75QN85BAGCZB-2.jpg",
+        "titulo": "Television",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Televisions",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/television.html",
+        "id": "12"
+    },
+    {
+        "imagen": "https://images.start.com.ar/QN75QN85BAGCZB-2.jpg",
+        "titulo": "Television",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Televisions",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/television.html",
+        "id": "13"
+    },
+
+
+    {
+        "imagen": "https://images.fravega.com/f1000/ef2bf5ced35e6d3a857c02b35f07bb16.jpg",
+        "titulo": "Phone",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Phones",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/phone.html",
+        "id": "14"
+    },
+    {
+        "imagen": "https://images.fravega.com/f1000/ef2bf5ced35e6d3a857c02b35f07bb16.jpg",
+        "titulo": "Phone",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est suscipit facere totam hic autem, sunt eum esse, animi voluptas nam veniam ab, dolor quis a error accusamus consequuntur fuga. Omnis! ",
+        "precio": "15000",
+        "categoria": "Phones",
+        "home": "Home",
+        "url": "http://127.0.0.1:5500/page/html_categories/phone.html",
+        "id": "15"
+    }
+
+
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
