@@ -17,14 +17,6 @@ window.addEventListener('load', event =>{
 }) 
 
 
-
-const btndelet = document.getElementById("btn-carrito")
-
-btndelet.addEventListener("click", event =>{
-    
-   alert("PRUEBA")
-
-})
     
 
 
